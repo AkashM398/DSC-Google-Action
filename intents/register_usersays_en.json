@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0a7336b8-e405-428d-87ea-77bd67b7cbcf",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "register",
+        "alias": "show-register",
+        "meta": "@show-register",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97c63003-36a2-4d54-a337-b9c2aaa9c09c",
+    "data": [
+      {
+        "text": "where can i ",
+        "userDefined": false
+      },
+      {
+        "text": "register",
+        "alias": "show-register",
+        "meta": "@show-register",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c86c7318-2d4a-4854-9bbe-725793b792d2",
+    "data": [
+      {
+        "text": "register",
+        "alias": "show-register",
+        "meta": "@show-register",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

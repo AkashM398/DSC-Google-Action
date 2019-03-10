@@ -1,0 +1,36 @@
+{
+  "id": "061b3ee8-f494-4089-a1cf-397020d899ef",
+  "name": "register",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac50f62f-4274-4a18-842d-3a5671e49fdc",
+          "required": false,
+          "dataType": "@show-register",
+          "name": "show-register",
+          "value": "$show-register",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is the link to register..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

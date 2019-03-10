@@ -1,0 +1,37 @@
+{
+  "id": "e5f3d091-afa5-47e5-a506-da124be5fd65",
+  "name": "join",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "913ffa6a-811b-4894-bb1f-463acc51728f",
+          "required": false,
+          "dataType": "@join-club",
+          "name": "join-club",
+          "value": "$join-club",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "hey, you can join us with the links given below..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ec7270ac-c981-4350-9946-1751ef511d58",
+  "name": "event",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d3834ad9-2674-4d78-a181-e867adf763a7",
+          "dataType": "@show-event",
+          "name": "show-event",
+          "value": "$show-event",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "yes and you can go to this link and check it out..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

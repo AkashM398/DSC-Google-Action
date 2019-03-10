@@ -1,0 +1,35 @@
+{
+  "id": "c257581b-364b-415a-9f8c-7925e8a0de05",
+  "name": "payment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "82121a69-b091-4f5a-87fc-4291a0b54599",
+          "dataType": "@show-payment",
+          "name": "show-payment",
+          "value": "$show-payment",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "you can pay here in this link..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

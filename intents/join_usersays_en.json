@@ -1,0 +1,45 @@
+[
+  {
+    "id": "b1a41ac0-0ee2-478d-bc86-687ebf2c64d7",
+    "data": [
+      {
+        "text": "how to be a part of this club",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c53b4566-ae4e-42e2-91a4-b51a2ef975bc",
+    "data": [
+      {
+        "text": "how can i ",
+        "userDefined": false
+      },
+      {
+        "text": "join",
+        "alias": "join-club",
+        "meta": "@join-club",
+        "userDefined": true
+      },
+      {
+        "text": " the club",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd7fbf32-2c14-4eda-b782-cac3e15018ef",
+    "data": [
+      {
+        "text": "I want to join the club",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

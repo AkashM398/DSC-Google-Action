@@ -1,0 +1,18 @@
+[
+  {
+    "value": "event",
+    "synonyms": [
+      "event",
+      "workshop",
+      "workshops",
+      "events"
+    ]
+  },
+  {
+    "value": "meeting",
+    "synonyms": [
+      "meeting",
+      "club meeting"
+    ]
+  }
+]
